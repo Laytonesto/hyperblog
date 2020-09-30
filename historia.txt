@@ -1,4 +1,8 @@
 ni modo :
 mas cambios yep
 
+<<<<<<< HEAD
 cambie esto para rpobar
+=======
+agrege algo nuevo a historia
+>>>>>>> fe18374603b8f2153b5adda30c1cc95d51ba5693
